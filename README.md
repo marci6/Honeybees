@@ -84,7 +84,7 @@ The honeybee nest-site problem is a clean model for **decentralised consensus un
 
 ## Read the paper
 
-The full paper is included in this repository: [`HOW_BEES_CAN_SURVIVE_WHEN_DISORIENTED.pdf`](./HOW_BEES_CAN_SURVIVE_WHEN_DISORIENTED.pdf)
+The full paper is included in this repository: https://github.com/marci6/Honeybees/blob/main/HOW%20BEES%20CAN%20SURVIVE%20WHEN%20DISORIENTED.pdf
 
 ---
 
